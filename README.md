@@ -40,7 +40,10 @@
 * [YouTube Tutorial](https://www.youtube.com/watch?v=pA8biz_-OU0)
 
   ![image](https://github.com/user-attachments/assets/b7059936-d93f-47d5-85b8-fc40dd49371d)
+----
 
-<p align="center">
-  [Support Server](https://discord.gg/Hd2ErxSeBd) | [Site](https://wuthery.com/) | [YouTube](https://www.youtube.com/@wuthery-com)
-</p>
+[Support Server](https://discord.gg/Hd2ErxSeBd) | [Site](https://wuthery.com/) | [YouTube](https://www.youtube.com/@wuthery-com)
+
+----
+
+![image](https://github.com/user-attachments/assets/d8f72bba-9b13-40ed-8317-c20a49fc9d3b)
